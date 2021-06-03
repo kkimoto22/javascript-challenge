@@ -1,3 +1,6 @@
+To view website, click [here](https://kkimoto22.github.io/javascript-challenge/)
+
+
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Background
